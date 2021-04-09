@@ -27,7 +27,7 @@ require (
 	github.com/sirupsen/logrus v1.7.0
 	github.com/soheilhy/cmux v0.1.4
 	github.com/spaceapegames/go-wavefront v1.8.1
-	github.com/spf13/cobra v1.1.1
+	github.com/spf13/cobra v1.1.3
 	github.com/stretchr/testify v1.7.0
 	github.com/tj/assert v0.0.3
 	github.com/undefinedlabs/go-mpatch v1.0.6
@@ -37,7 +37,7 @@ require (
 	google.golang.org/genproto v0.0.0-20201110150050-8816d57aaa9a
 	google.golang.org/grpc v1.33.1
 	google.golang.org/grpc/examples v0.0.0-20210331235824-f6bb3972ed15 // indirect
-	gopkg.in/yaml.v2 v2.3.0
+	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776 // indirect
 	k8s.io/api v0.20.4
 	k8s.io/apiextensions-apiserver v0.19.4
